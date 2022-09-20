@@ -1,0 +1,7 @@
+$ echo "Hello World"
+$ nano First.sh
+#!/bin/bash
+echo "Hello World"
+$ bash First.sh
+$ chmod a+x First.sh
+$ ./First.sh
